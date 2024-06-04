@@ -19,5 +19,5 @@ git clone  https://github.com/cikssX/INSTACRACK.git
 ### HASIL CRACK
 ![alt text](https://github.com/cikssX/INSTACRACK/blob/main/Crack%20result.jpeg?raw=true)
 
- Disclaimer To User 
+ ### Disclaimer To User 
 ***Use this tool for Educational and Permission Jobs Dont Hack Someone Password without Their Permission***
