@@ -6,6 +6,8 @@ INSTACRACK adalah adalah sebuah script untuk cracking akun instagram. dengan sis
 
 **RUN**
 ```
+pip install pycryptodome
+
 rm -rf INSTACRACK
 
 git clone  https://github.com/cikssX/INSTACRACK.git
@@ -14,7 +16,7 @@ git clone  https://github.com/cikssX/INSTACRACK.git
 
  ls
 
- python CiKSXD~FiX.py
+ python ciksrun.py
 ```
 ### HASIL CRACK
 ![alt text](https://github.com/cikssX/INSTACRACK/blob/main/Crack%20result.jpeg?raw=true)
